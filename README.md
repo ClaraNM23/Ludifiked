@@ -2,7 +2,7 @@
 Ludifiked es una aplicación educativa desarrollada por Clara Núlez Millán para su Trabajo de Fin de Grado.
 
 ## Instalación
-La instalación es sencilla, tan solo hay que descargarse la apk de este repsitorio e instalarla en el móvil.
+La instalación es sencilla, tan solo hay que descargarse la apk de este repositorio e instalarla en el móvil.
 
 ## Uso de la aplicación
 El juego es una simplificación del juego de la oca donde aparecen preguntas definidas por un profesor en cada casilla del tablero. De esta manera se aprende mientras se juega.
